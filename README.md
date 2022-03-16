@@ -24,5 +24,5 @@ __Queen Mary University Of London__ (September 2014 - June 2018)
 
 ## Hobbies and Interests
 
-Rock Climbing - Regular bouldering sessions each week. Have previously been on outdoor trips to the Peak District and Fontainebleau in France.
-Running - Regular runs each week for some great cardio and feeling healthy and happy.
+__Rock Climbing__ - Regular bouldering sessions each week. Have previously been on outdoor trips to the Peak District and Fontainebleau in France.\
+__Running__ - Regular runs each week for some great cardio and feeling healthy and happy.
