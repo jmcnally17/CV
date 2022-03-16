@@ -1,23 +1,28 @@
 # Joe McNally CV
 
-Introduction here
+I am a coding student with mild experience in Python and Ruby, about to start the main course of the training bootcamp at Makers. I have a masters degree in Astrophysics from Queen Mary University Of London with first class honours.
 
 ## Projects
 
-Projects will be added later
+Projects will be added later in the course.
 
 ## Skills
 
-Coding skills listed here
+__Ruby__
+
+__Python__
 
 ## Work Experience
 
-Work listed here
+__Supermarket Assistant: Waitrose & Partners__ (October 2018 - April 2021)
 
 ## Education
 
-Makers and University listed here
+__Makers__ (Februaty 2022 - June 2022)
+
+__Queen Mary University Of London__ (September 2014 - June 2018)
 
 ## Hobbies and Interests
 
-Hobbies listed here
+Rock Climbing - Regular bouldering sessions each week. Have previously been on outdoor trips to the Peak District and Fontainebleau in France.
+Running - Regular runs each week for some great cardio and feeling healthy and happy.
