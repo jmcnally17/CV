@@ -1,6 +1,8 @@
 # Joe McNally CV
 
 I am a coding student with mild experience in Python and Ruby, about to start the main course of the training bootcamp at Makers. I have a masters degree in Astrophysics from Queen Mary University Of London with first class honours.
+I have thoroughly enjoyed the experience I've had with coding thus far as it is similar to playing a puzzle game with a huge feeling of satisfaction when successfully creating a working program.
+I find the technology around computers fascinating and I feel I am ready to learn and further develop my skills in this industry.
 
 ## Projects
 
@@ -10,7 +12,11 @@ Projects will be added later in the course.
 
 __Ruby__
 
+More detail to be added later in the course.
+
 __Python__
+
+More detail to be added later in the course.
 
 ## Work Experience
 
@@ -27,10 +33,10 @@ __Makers__ (February 2022 - June 2022)
 - During the precourse I have had the opportunity to further develop and practice coding in Ruby.
 - I have had the opportunity to learn how to use RSpec in order to rigorously test a program in Ruby.
 - Learnt how to use my communication skills in order to pair program and efficiently solve coding problems in a team as well as learning Test Driven Development (TDD) to write a FizzBuzz program.
-- I have had the chance to learn how to collaborate and store repositories using GitHub.
+- I have had the chance to learn how to collaborate and store repositories using GitHub. GitHub repositories link [here](https://github.com/jmcnally17?tab=repositories)
 
 __Edx.org__ (June 2020 - August 2020)
-- Achieved a passing grade in the module "Introduction to Computer Science and Programming Using Python"
+- Achieved a passing grade in the online module "Introduction to Computer Science and Programming Using Python"
     - I had the opportunity to learn Classes, Objects, Functions, Exceptions and Assertions, Plotting and Algorithms over the course of seven weeks with plenty of practice questions as well as a midterm and final exam.
     - I further developed my problem solving skills that I had demonstrated throughout my university degree but with more experience in coding.
 
@@ -43,4 +49,5 @@ __Queen Mary University Of London__ (September 2014 - June 2018)
 ## Hobbies and Interests
 
 __Rock Climbing__ - Regular bouldering sessions each week. Have previously been on outdoor trips to the Peak District and Fontainebleau in France.\
-__Running__ - Regular runs each week for some great cardio exercise and feeling healthy and happy.
+__Running__ - Regular runs each week for some great cardio exercise and feeling healthy and happy.\
+__Gaming__ - Always enjoy games on my nintendo switch and many games from steam on my computer.
