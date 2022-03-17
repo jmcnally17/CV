@@ -2,7 +2,7 @@
 
 I am a coding student with mild experience in Python and Ruby, about to start the main course of the training bootcamp at Makers. I have a masters degree in Astrophysics from Queen Mary University Of London with first class honours.
 I have thoroughly enjoyed the experience I've had with coding thus far as it is similar to playing a puzzle game with a huge feeling of satisfaction when successfully creating a working program.
-I find the technology around computers fascinating and I feel I am ready to learn and further develop my skills in this industry.
+I feel I am ready to learn and further develop my skills in this industry.
 
 ## Projects
 
