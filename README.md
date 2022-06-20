@@ -57,4 +57,4 @@ __Queen Mary University Of London__ (September 2014 - June 2018)
 
 __Rock Climbing__ - Regular bouldering sessions each week. Have previously been on outdoor trips to the Peak District and Fontainebleau in France.\
 __Running__ - Regular runs each week for some great cardio exercise and feeling healthy and happy.\
-__Gaming__ - Always enjoy games on my nintendo switch and many games from steam on my computer.
+__Gaming__ - Always enjoy games on my nintendo switch and from steam on my computer.
