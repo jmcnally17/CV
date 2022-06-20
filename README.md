@@ -1,22 +1,30 @@
 # Joe McNally CV
 
-I am a coding student with mild experience in Python and Ruby, about to start the main course of the training bootcamp at Makers. I have a masters degree in Astrophysics from Queen Mary University Of London with first class honours.
-I have thoroughly enjoyed the experience I've had with coding thus far as it is similar to playing a puzzle game with a huge feeling of satisfaction when successfully creating a working program.
+I am an aspiring developer with experience in Javascript and Ruby, having recently graduated from the Makers Academy coding bootcamp. I also have a masters degree in Astrophysics from Queen Mary University Of London with first class honours.
+I have thoroughly enjoyed the experience I've had with coding so far due to the analytical approach similar to the experience I had during my degree with a huge feeling of satisfaction when developing a project of my own design.
 I feel I am ready to learn and further develop my skills in this industry.
 
 ## Projects
 
-Projects will be added later in the course.
+| Name | Description | Tech Used |
+| ---- | ----------- | --------- |
+| [MakersBnB](https://github.com/jmcnally17/makersbnb) | A webapp that allows users to sign up and book time to stay in a listed property or list a property they want to rent out themselves. | Ruby, ActiveRecord |
+| [Acebook](https://github.com/jmcnally17/acebook-zark-muckerberg) | A social media webapp where users can make posts, comment on posts and like posts. Each user also has their own profile page. | Javascript, Express, Heroku |
+| [EdUp](https://github.com/jmcnally17/EdUp) | A webapp where parents can communicate with the school their children are attending. Features include a noticeboard, calendar, live chat rooms and payment system. | Javascript, MERN Stack, Heroku |
 
 ## Skills
 
-__Ruby__
+__Agile Working__
 
-More detail to be added later in the course.
+Practiced agile working during the final project of the Makers main course (EdUp). When encountering a tough blocker with the login system, we were able to work on other features, such as the noticeboard, in separate branches. These separate branches were then merged and were compatible with the login system once that blocker had been solved.
 
-__Python__
+__Project Management__
 
-More detail to be added later in the course.
+Gained experience leading a team during the EdUp project as we rotated the team leader role each day. I would direct the three daily team meetings when I was team leader, assigning people to specific roles on the project for that day. This was achieved while making sure everyone got to have their say and a good team atmosphere was maintained throughout.
+
+__Communication and Presenting__
+
+Presented the EdUp project along with my team on our demo day. With an audience watching in Zoom, including potential employers and Makers coaches, I explained the teams ways of working as well as the noticeboard and QR code features of our app during the demo video.
 
 ## Work Experience
 
@@ -30,10 +38,9 @@ __Supermarket Assistant: Waitrose & Partners__ (October 2018 - April 2021)
 ## Education
 
 __Makers__ (February 2022 - June 2022)
-- During the precourse I have had the opportunity to further develop and practice coding in Ruby.
-- I have had the opportunity to learn how to use RSpec in order to rigorously test a program in Ruby.
-- Learnt how to use my communication skills in order to pair program and efficiently solve coding problems in a team as well as learning Test Driven Development (TDD) to write a FizzBuzz program.
-- I have had the chance to learn how to collaborate and store repositories using GitHub. GitHub repositories link [here](https://github.com/jmcnally17?tab=repositories)
+- Developed strong skills in both Ruby and Javascript, as well as many technologies and tools built on those languages (e.g. ActiveRecord, MERN Stack).
+- Spent a lot of time refining my Object-Oriented Programming and Test-Driven Development processes through pair programming and group projects.
+- Learnt how to use my communication skills in order to pair program and efficiently solve coding problems in a team.
 
 __Edx.org__ (June 2020 - August 2020)
 - Achieved a passing grade in the online module "Introduction to Computer Science and Programming Using Python"
@@ -43,7 +50,7 @@ __Edx.org__ (June 2020 - August 2020)
 __Queen Mary University Of London__ (September 2014 - June 2018)
 - MSci Astrophysics: First Class Honours
     - Developed strong analytical skills working collectively with my peers when problem solving in weekly coursework in a variety of topics including Thermodynamics, Cosmology, Quantum mechanics and General Relativity.
-    - Working with peers also required strong teamwork and communication skills in order to explain complex ideas in physics.
+    - Working with peers also required strong teamwork and communication skills in order to explain complex concepts in physics.
     - Gained project management skills when writing my dissertation on "Large Scale Structure of the Universe" while running simulations in Gadget Programming to view the evolution of structure for different universes that contain differing amounts of visible matter, dark matter, radiation and dark energy.
 
 ## Hobbies and Interests
