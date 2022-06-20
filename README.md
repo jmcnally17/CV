@@ -37,7 +37,7 @@ __Supermarket Assistant: Waitrose & Partners__ (October 2018 - April 2021)
 
 ## Education
 
-__Makers__ (February 2022 - June 2022)
+__Makers Academy Coding Bootcamp__ (February 2022 - June 2022)
 - Developed strong skills in both Ruby and Javascript, as well as many technologies and tools built on those languages (e.g. ActiveRecord, MERN Stack).
 - Spent a lot of time refining my Object-Oriented Programming and Test-Driven Development processes through pair programming and group projects.
 - Learnt how to use my communication skills in order to pair program and efficiently solve coding problems in a team.
