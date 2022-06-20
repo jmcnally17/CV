@@ -8,9 +8,9 @@ I feel I am ready to learn and further develop my skills in this industry.
 
 | Name | Description | Tech Used |
 | ---- | ----------- | --------- |
-| [MakersBnB](https://github.com/jmcnally17/makersbnb) | A webapp that allows users to sign up and book time to stay in a listed property or list a property they want to rent out themselves. | Ruby, ActiveRecord |
-| [Acebook](https://github.com/jmcnally17/acebook-zark-muckerberg) | A social media webapp where users can make posts, comment on posts and like posts. Each user also has their own profile page. | Javascript, Express, Heroku |
 | [EdUp](https://github.com/jmcnally17/EdUp) | A webapp where parents can communicate with the school their children are attending. Features include a noticeboard, calendar, live chat rooms and payment system. | Javascript, MERN Stack, Heroku |
+| [Acebook](https://github.com/jmcnally17/acebook-zark-muckerberg) | A social media webapp where users can make posts, comment on posts and like posts. Each user also has their own profile page. | Javascript, Express, Heroku |
+| [MakersBnB](https://github.com/jmcnally17/makersbnb) | A webapp that allows users to sign up and book time to stay in a listed property or list a property they want to rent out themselves. | Ruby, ActiveRecord |
 
 ## Skills
 
