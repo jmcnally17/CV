@@ -1,6 +1,6 @@
 # Joe McNally CV
 
-I am an aspiring developer with experience in Javascript and Ruby, having recently graduated from the Makers Academy coding bootcamp. I also have a masters degree in Astrophysics from Queen Mary University Of London with first class honours.
+I am an aspiring developer with experience in Javascript and Ruby, having recently graduated from the Makers Academy coding bootcamp. I also have a masters degree in Astrophysics from Queen Mary University of London with first class honours.
 I have thoroughly enjoyed the experience I've had with coding so far due to the analytical approach similar to the experience I had during my degree with a huge feeling of satisfaction when developing a project of my own design.
 I feel I am ready to learn and further develop my skills in this industry.
 
