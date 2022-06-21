@@ -24,7 +24,7 @@ Gained experience leading a team during the EdUp project as we rotated the team 
 
 __Communication and Presenting__
 
-Presented the EdUp project along with my team on our demo day. With an audience watching in Zoom, including potential employers and Makers coaches, I explained the teams ways of working as well as the noticeboard and QR code features of our app during the demo video.
+Presented the EdUp project along with my team on our demo day. With an audience watching in Zoom, including potential employers and Makers coaches, I explained the teams ways of working as well as the noticeboard and QR code features of our app during the demo video. Click [here](https://www.youtube.com/watch?v=MnX0ePaLG-I) to see the demo.
 
 ## Work Experience
 
