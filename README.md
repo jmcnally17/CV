@@ -46,7 +46,7 @@ __Makers Academy Coding Bootcamp__ (February 2022 - June 2022)
 - Became a mentor to a student on one of the more recent cohorts showing empathy when understanding I was at the same position they were in not long ago
 
 __edX__ (June 2020 - August 2020)
-- Achieved a passing grade in the online module "Introduction to Computer Science and Programming Using Python"
+- Achieved a passing grade with 98% in the online module "Introduction to Computer Science and Programming Using Python"
     - I had the opportunity to learn Classes, Objects, Functions, Exceptions and Assertions, Plotting and Algorithms over the course of seven weeks with plenty of practice questions as well as a midterm and final exam
     - I further developed my problem solving skills that I had demonstrated throughout my university degree but with more experience in coding
 
