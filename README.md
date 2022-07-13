@@ -28,7 +28,7 @@ Constantly working with people during pair programming and group projects throug
 
 ## Work Experience
 
-__Supermarket Assistant: Waitrose & Partners__ (October 2018 - April 2021)
+__Supermarket Assistant__, Waitrose & Partners (October 2018 - April 2021)
 - Developed my communication skills when dealing with some of the most difficult customers in the cafe and bakery section to ensure they would return after having a good experience
 - Honed my teamwork skills in order to coordinate with my colleagues as we would have to adapt throughout the day which ensured a calm working environment for everyone
 - Showed a great attention to detail when checking dates on every item of stock for multiple sections for reductions which reduced waste
@@ -42,7 +42,7 @@ __Supermarket Assistant: Waitrose & Partners__ (October 2018 - April 2021)
 
 ## Education
 
-__Makers Academy Coding Bootcamp__ (February 2022 - June 2022)
+__Software Development Bootcamp__, Makers Academy (February 2022 - June 2022)
 - Used good communication skills when pair programming with different people everyday to discuss and explain new concepts being learnt, whilst always applying TDD and OOP
 - Used an agile methodology to create a productive and efficient working environment in group projects
 - Gained leadership experience by leading team meetings and allocating tasks during the final project
@@ -50,18 +50,17 @@ __Makers Academy Coding Bootcamp__ (February 2022 - June 2022)
 - Showed that I can efficiently learn a new language by translating what I had learnt in Ruby over to a new language when learning Javascript
 - Showed empathy when becoming a mentor to a student on one of the more recent cohorts by understanding I was at the same position they were in not long before
 
-__edX__ (June 2020 - August 2020)
-- Achieved a passing grade with 98\% in the online module "Introduction to Computer Science and Programming Using Python"
+__Introduction to Computer Science and Programming Using Python__, edX (June 2020 - August 2020)
+- Achieved a passing grade with 98\% in this online module
 - I had the opportunity to learn Classes, Objects, Functions, Exceptions and Assertions, Plotting and Algorithms over the course of seven weeks with plenty of practice questions as well as a midterm and final exam
 - I further developed my problem solving skills that I had demonstrated throughout my university degree but with more experience in coding
 
-__Queen Mary University Of London__ (September 2014 - June 2018)
-- MSci Astrophysics: First Class Honours
-    - During second year, achieved a first in the module "Introduction to C++ Programming"
-        - Programmed a simulation of particles colliding in a box
-    - Developed strong analytical skills when problem solving weekly coursework in a variety of topics including Thermodynamics, Cosmology, Quantum mechanics and General Relativity
-    - Strong teamwork and communication skills were required when working with peers in order to explain complex concepts in physics
-    - Gained project management skills when writing my dissertation on "Large Scale Structure of the Universe" while running simulations in Gadget Programming to view the evolution of structure for different universes that contain differing amounts of visible matter, dark matter, radiation and dark energy
+__MSci Astrophysics__, Queen Mary University Of London, First Class Honours (September 2014 - June 2018) 
+- During second year, achieved a first in the module "Introduction to C++ Programming"
+    - Programmed a simulation of particles colliding in a box
+- Developed strong analytical skills when problem solving weekly coursework in a variety of topics including Thermodynamics, Cosmology, Quantum mechanics and General Relativity
+- Strong teamwork and communication skills were required when working with peers in order to explain complex concepts in physics
+- Gained project management skills when writing my dissertation on "Large Scale Structure of the Universe" while running simulations in Gadget Programming to view the evolution of structure for different universes that contain differing amounts of visible matter, dark matter, radiation and dark energy
 
 ## Hobbies and Interests
 
