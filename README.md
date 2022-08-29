@@ -8,9 +8,9 @@ I feel I am ready to develop my skills further in this industry.
 
 | Name | Description | Tech Used |
 | ---- | ----------- | --------- |
-| [Pac-Man](https://github.com/jmcnally17/pacman) | A webapp game where users can play an imitation of the classic game Pac-Man. An extra feature involves a leaderboard of the top ten scores which players can see after playing | Javascript, MERN Stack, Heroku, Jest |
+| [Pac-Man](https://github.com/jmcnally17/pacman) | A webapp game where users can play an imitation of the classic game Pac-Man. An extra feature involves a leaderboard of the top ten scores which players can see after playing | Javascript, Sequelize, PostgreSQL, Express, React, Node.js, Heroku, Jest |
 | [EdUp](https://github.com/jmcnally17/EdUp) | A webapp where parents can communicate with the school their children are attending. Features include a noticeboard, calendar, live chat rooms and payment system | Javascript, MERN Stack, Heroku, React Testing Library, Jest |
-| [Acebook](https://github.com/jmcnally17/acebook-zark-muckerberg) | A social media webapp where users can make posts, comment on posts and like posts. Each user also has their own profile page | Javascript, Node.js, Express, Mongoose, Heroku, Cypress, Jest |
+| [Acebook](https://github.com/jmcnally17/acebook-zark-muckerberg) | A social media webapp where users can make posts, comment on posts and like posts. Each user also has their own profile page | Javascript, Node.js, Express, Mongoose, MongoDB, Heroku, Cypress, Jest |
 
 ## Skills
 
