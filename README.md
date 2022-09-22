@@ -44,7 +44,7 @@ __Supermarket Assistant__, Waitrose & Partners (October 2018 - April 2021)
 
 __Software Development Bootcamp__, Makers Academy (February 2022 - June 2022)
 - Used good communication skills when pair programming with different people everyday to discuss and explain new concepts being learnt, whilst always applying TDD and OOP
-- Used an agile methodology to create a productive and efficient working environment in group projects
+- Used agile methodologies to create productive and efficient working environments in group projects
 - Gained leadership experience by leading team meetings and allocating tasks during the final project
 - Honed my self teaching skills to learn new technologies during independent learning and weekend challenges (e.g. ActiveRecord, React)
 - Showed that I can efficiently learn a new language by translating what I had learnt in Ruby over to a new language when learning Javascript
